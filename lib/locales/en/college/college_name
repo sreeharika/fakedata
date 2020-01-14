@@ -1,0 +1,13 @@
+module["exports"] = [
+  "vBIT",
+  "JBIT",
+  "AURP",
+  "HITS",
+  "VMTW",
+  "PETW",
+  "SMSK",
+  "CVSR",
+  "BITS",
+  "IIIT",
+  "JNTU",
+];
